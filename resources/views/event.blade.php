@@ -107,7 +107,7 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img class="carousel-image" alt="Carousel First" src="{!! $images[0]->LINK !!}" />
+                        <img class="carousel-image" alt="Carousel First" src="{!! $images[0]->LINK !!}" width = 100%/>
                         <div class="carousel-caption">
                             <h4>
                                 «Artbat Fest 8»
@@ -118,7 +118,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img class="carousel-image" alt="Carousel Second" src="{!! $images[1]->LINK !!}" />
+                        <img class="carousel-image" alt="Carousel Second" src="{!! $images[1]->LINK !!}"  width = 100%/>
                         <div class="carousel-caption">
                             <h4>
                                 «Artbat Fest 8»
@@ -129,7 +129,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img class="carousel-image" alt="Carousel Third" src="{!! $images[2]->LINK !!}" />
+                        <img class="carousel-image" alt="Carousel Third" src="{!! $images[2]->LINK !!}" width = 100% />
                         <div class="carousel-caption">
                             <h4>
                                 «Artbat Fest 8»
