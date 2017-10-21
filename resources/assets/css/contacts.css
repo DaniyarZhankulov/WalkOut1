@@ -1,0 +1,63 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/78/41/a9/7841a9b73b7a1b39d7a379fb405b14be.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.send {
+    border-style: ridge;
+    border-width: 2px;
+    border-radius: 10px;
+    margin: 20px 100px 0 300px;
+    padding: 30px 20px 0 50px;
+    width: 700px;
+    background-color: #292c2f;
+    color: white;
+}
+.comment {
+    width: 600px;
+    height: 150px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: black;
+}
+.text {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: black;
+}
+.submit {
+    color: white;
+    padding: 10px 30px 10px 30px;
+    margin: 0 0 30px 380px;
+    background-color: #e68a57;
+    font-size: 17px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 30px rgb(255, 105, 105);
+}
+.reset {
+    color: white;
+    padding: 10px 30px 10px 30px;
+    background-color: #e68a57;
+    font-size: 17px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 30px rgb(255, 105, 105);
+}
+.cont {
+    text-align: center;
+    margin-top: 30px;
+}
+.table {
+    margin: 30px 0 0 300px;
+}
+hr {
+    width: 900px;
+}

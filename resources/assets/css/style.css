@@ -1,0 +1,46 @@
+.col-md-6, .col-md-3, .col-md-2{
+
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.col-md-6 {
+	
+	background-color: white;
+}
+
+.row{
+	align-content: center;
+}
+.navbar, .navbar-default{
+	border-radius:0;
+	background-color: #292c2f;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	height: 52.4px;
+	text-align: left;
+	font: bold 16px sans-serif;
+}
+.navbar-brand{
+	padding:0;
+	margin-right: 10px;
+}
+.form-control, .btn, .btn-default, .jumbotron{
+	border-radius:0;
+}
+
+@media (min-width:992px){
+.extra-col {
+	opacity:0.1;
+}}
+.extra-col:hover {
+	opacity:1
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/78/41/a9/7841a9b73b7a1b39d7a379fb405b14be.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
